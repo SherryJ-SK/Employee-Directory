@@ -1,0 +1,11 @@
+form {
+    text-align: center;
+    background-color: #dddbff;
+    padding: 2rem;
+    margin-top: -1rem;
+}
+
+input {
+    border-radius: 15px;
+    font-family: 'Arvo', serif;
+}

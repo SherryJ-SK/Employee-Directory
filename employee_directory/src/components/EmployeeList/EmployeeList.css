@@ -1,0 +1,26 @@
+table {
+    margin: 2rem 8rem;
+}
+
+th {
+    background-color: #ffd469;
+    font-family: 'Arvo', serif;
+    text-align: center;
+    font-size: 1.2rem;
+    padding: 1rem 2rem;
+}
+
+td {
+    font-family: 'Arvo', serif;
+    text-align: center;
+    padding: 1rem 3rem;
+}
+
+.image {
+    width: 4rem;
+}
+
+i {
+    padding-left: 1rem;
+    opacity: 0.5;
+}
