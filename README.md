@@ -1,7 +1,7 @@
 # Employee Directory
 This application allow users to search the employees' name and also sort the employees' name in alphabetical order.
 
-Deployed Link:
+Deployed Link: https://sherryj-sk.github.io/Employee-Directory/
 
 ## Description
 This single page app was building by using React. The App.js contain the functions that need to render on the html: 
